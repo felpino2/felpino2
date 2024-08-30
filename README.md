@@ -1,6 +1,6 @@
 ## Olá! Sou Felipe Augusto. 👋
 
-Confira minha API de Presença por Reconhecimento Facial nos repositórios fixados.
+Estudando!
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
