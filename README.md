@@ -1,4 +1,4 @@
-## Olá! Sou Gabriel Paiva. 👋
+## Olá! Sou Felipe Augusto. 👋
 
 Confira minha API de Presença por Reconhecimento Facial nos repositórios fixados.
 
